@@ -13,6 +13,7 @@ services:
 - volume-efs
 - volume-nfs
 - modem-manager
+- nvidia-driver
 - waagent
 - virtualbox-tools
 - docker-compose
